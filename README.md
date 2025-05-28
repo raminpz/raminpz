@@ -1,16 +1,19 @@
-## Hi there 👋
+# Tu Nombre
+![Tu Foto](URL_de_tu_imagen)
 
-<!--
-**raminpz/raminpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy un/a [tu ocupación o interés], buscando aprender y colaborar.
 
-Here are some ideas to get you started:
+## Mis habilidades
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+![Python](https://img.icons8.com/color/48/000000/python.png) Python
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+<!-- Añade más íconos según tus habilidades -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estadísticas de GitHub
+![Estadísticas](URL_de_tus_estadísticas)
+
+### Lenguajes principales
+- Java
+- Go
+- Angular
