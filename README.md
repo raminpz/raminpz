@@ -12,7 +12,7 @@ Soy desarrollador de software con experiencia en tecnologías modernas como Java
   <img src="https://img.icons8.com/color/48/000000/go.png" />
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" />
   <img src="https://img.icons8.com/color/48/000000/mysql.png" />
-  <img src="https://img.icons8.com/color/48/000000/postgresql.png" />
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
   <img src="https://img.icons8.com/color/48/000000/redis.png" />
 </p>
