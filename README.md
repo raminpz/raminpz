@@ -5,16 +5,16 @@ Soy desarrollador de software con experiencia en tecnologías modernas como Java
 
 <h2 align="center">Mis habilidades</h2>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="70" />
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" width="70" />
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" width="70" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" width="70" />
-  <img src="https://img.icons8.com/color/48/000000/go.png" width="70" />
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="70" />
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" width="70" />
-  <img src="https://img.icons8.com/color/48/000000/postgresql.png" width="70" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="70" />
-  <img src="https://img.icons8.com/color/48/000000/redis.png" width="70" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" />
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" />
+  <img src="https://img.icons8.com/color/48/000000/go.png" />
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" />
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" />
+  <img src="https://img.icons8.com/color/48/000000/postgresql.png" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
+  <img src="https://img.icons8.com/color/48/000000/redis.png" />
 </p>
 
 <h2 align="center">Estadísticas de GitHub</h2>
