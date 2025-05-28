@@ -16,10 +16,10 @@ Soy desarrollador de software con experiencia en tecnologías modernas como Java
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" class="skill-icon"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" class="skill-icon"/>
   <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" class="skill-icon"/>
+
+  <img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/static/logo.png" alt="Prometheus" class="skill-icon"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Apache_Kafka_logo.svg" alt="Kafka" class="skill-icon" style="width:48px; height:48px;"/>
   
-  <img src="https://img.icons8.com/color/48/000000/prometheus.png" alt="Prometheus" class="skill-icon"/>
-  <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" class="skill-icon"/>
-  <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Kafka" class="skill-icon"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" class="skill-icon"/>
   <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" class="skill-icon"/>
   <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" class="skill-icon"/>
