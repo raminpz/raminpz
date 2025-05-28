@@ -11,7 +11,7 @@ Soy desarrollador de software con experiencia en tecnologías modernas como Java
 <!-- Añade más íconos según tus habilidades -->
 
 ## Estadísticas de GitHub
-![Estadísticas](URL_de_tus_estadísticas)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=raminpz&show_icons=true&theme=radical)
 
 ### Lenguajes principales
 - Java
