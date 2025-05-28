@@ -1,8 +1,8 @@
 # Tu Nombre
-![Tu Foto](URL_de_tu_imagen)
+![Tu Foto](https://www.facebook.com/photo/?fbid=10226827265001796&set=a.1630529197221)
 
 ## Sobre mí
-Soy un/a [tu ocupación o interés], buscando aprender y colaborar.
+Soy desarrollador de software con experiencia en tecnologías modernas como Java, TypeScript, Angular y Go. Tengo un enfoque orientado a la calidad, escalabilidad y rendimiento en el desarrollo de aplicaciones web, sistemas distribuidos y arquitecturas basadas en microservicios.
 
 ## Mis habilidades
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
