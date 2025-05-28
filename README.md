@@ -4,10 +4,10 @@
 Soy desarrollador de software con experiencia en tecnologías modernas como Java, TypeScript, Angular y Go. Tengo un enfoque orientado a la calidad, escalabilidad y rendimiento en el desarrollo de aplicaciones web, sistemas distribuidos y arquitecturas basadas en microservicios.
 
 ## Mis habilidades
-| ![Go](https://img.icons8.com/color/48/000000/go.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) | ![Python](https://img.icons8.com/color/48/000000/python.png) | ![AWS](https://img.icons8.com/color/48/000000/aws.png) |
-|------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------|------------------------------------------------|
-| ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![Express](https://img.icons8.com/color/48/000000/express.png) | ![Django](https://img.icons8.com/color/48/000000/django.png) | ![Prisma](https://img.icons8.com/color/48/000000/prisma.png) | ![Sequelize](https://img.icons8.com/color/48/000000/sequelize.png) |
-| ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) | ![Redis](https://img.icons8.com/color/48/000000/redis.png) | ![Docker](https://img.icons8.com/color/48/000000/docker.png) |
+| ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) | ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) | ![Docker](https://img.icons8.com/color/48/000000/docker.png) |
+|----------------------------------------------------|------------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| ![Go](https://img.icons8.com/color/48/000000/golang.png) | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) | ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) | ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) |
+| ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) | ![Redis](https://img.icons8.com/color/48/000000/redis.png) | | |
 <!-- Añade más íconos según tus habilidades -->
 
 ## Estadísticas de GitHub
